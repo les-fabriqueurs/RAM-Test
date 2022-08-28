@@ -1,0 +1,21 @@
+Initialising:
+Initialisation check: pin 0 LOW passed
+Initialisation check: pin 1 LOW passed
+Initialisation check: pin 2 LOW passed
+Initialisation check: pin 3 LOW passed
+
+DataBusTest Start - Address is : 0
+DataBusTest finished - ok
+
+AdressBusTest Start 
+AddressBusTest finished - ok
+
+DeviceTest Start 
+ - DeviceTest 1st pass
+ - DeviceTest 2nd pass
+ - DeviceTest 3rd pass
+DeviceTest finished - ok
+
+Duration: 4.11 s
+
+Global Test Result: Passed
